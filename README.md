@@ -1,21 +1,20 @@
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="ritaptcs-b.png">
-  <source media="(prefers-color-scheme: light)" srcset="ritaptcs.png"> -->
-  <img alt="ritaptcs" src="ritaptcs.png" width="180">
-</picture>
 
 
 # Rita Patacas    <a href="https://linkedin.com/in/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/in-white.png"><source media="(prefers-color-scheme: light)" srcset="img/in-black.png"><img alt="LinkedIn" src="img/in-black.png" height="15"></picture></a> <a href="https://github.com/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/gh-white.png"><source media="(prefers-color-scheme: light)" srcset="img/gh-black.png"><img alt="GitHub" src="img/gh-black.png" width="16" height="16"></picture></a> 
 ###### Full-Stack Developer · AI &amp; Software Educator
 
 
-## TL;DR
 
-- **Full-stack** developer and tech educator, based in Lisbon.
+
+<!-- ## TL;DR -->
+
+
 - I work mostly with `TypeScript`, `React`, `Node.js` and `Python` , and I'm a certified `Mendix` developer
 - I teach adults to solve problems and build tools with AI, and teens to code. 200+ learners trained <picture><source media="(prefers-color-scheme: dark)" srcset="img/party-horn-white.svg"><source media="(prefers-color-scheme: light)" srcset="img/party-horn-black.svg"><img alt="party horn" src="img/party-horn-black.svg" width="16" height="16"></picture>
 - Previously ~10 years editing films screened at Cannes, Berlin, Locarno and Venice.
 
+
+<!--
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,7 +27,6 @@
 - [Support](#support)
 
 ---
-
 ## Overview
 
 I'm a full-stack developer and tech educator with a background that spans software engineering, artificial intelligence and film post-production.
@@ -42,8 +40,9 @@ Before software, I spent nearly a decade in film editing and post-production. Di
 ---
 
 ## Available Tools
+-->
 
-
+## Tech Stack
 
 <table>
   <tr>
@@ -99,6 +98,7 @@ Before software, I spent nearly a decade in film editing and post-production. Di
 </table>
 
 
+<!--
 ---
 
 ## Quick Start
@@ -218,11 +218,17 @@ Languages: Portuguese (native), English (professional working proficiency), Span
 ## Contributing
 
 Elected board member of Casa de Pedrógão Grande, a community association, since 2016.
-
+-->
 ---
 
 ## Support
 
-[rita.patacas@gmail.com](mailto:rita.patacas@gmail.com) 
 
-<a href="https://linkedin.com/in/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/in-white.png"><source media="(prefers-color-scheme: light)" srcset="img/in-black.png"><img alt="LinkedIn" src="img/in-black.png" height="15"></picture></a> ·  <a href="https://github.com/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/gh-white.png"><source media="(prefers-color-scheme: light)" srcset="img/gh-black.png"><img alt="GitHub" src="img/gh-black.png" width="16" height="16"></picture></a>
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="ritaptcs-b.png">
+  <source media="(prefers-color-scheme: light)" srcset="ritaptcs.png"> -->
+  <img alt="ritaptcs" src="ritaptcs.png" width="180">
+</picture> · <a href="https://linkedin.com/in/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/in-white.png"><source media="(prefers-color-scheme: light)" srcset="img/in-black.png"><img alt="LinkedIn" src="img/in-black.png" height="15"></picture></a> ·  <a href="https://github.com/ritapatacas"><picture><source media="(prefers-color-scheme: dark)" srcset="img/gh-white.png"><source media="(prefers-color-scheme: light)" srcset="img/gh-black.png"><img alt="GitHub" src="img/gh-black.png" width="16" height="16"></picture></a>
+
+
+[rita.patacas@gmail.com](mailto:rita.patacas@gmail.com) 
